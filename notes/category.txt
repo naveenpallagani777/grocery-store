@@ -1,0 +1,143 @@
+Fresh Produce
+  - Fruits
+    - Apples
+    - Bananas
+    - Berries
+    - Citrus fruits
+    - Grapes
+    - Melons
+    - Tropical fruits
+  - Vegetables
+    - Leafy greens
+    - Root vegetables
+    - Cruciferous vegetables
+    - Squashes
+    - Peppers
+    - Onions & garlic
+    - Mushrooms
+  - Herbs
+    - Fresh herbs (basil, cilantro, parsley, etc.)
+    - Fresh spices (ginger, turmeric, etc.)
+
+Meat and Seafood
+  - Meat
+    - Beef
+    - Pork
+    - Lamb
+    - Poultry (chicken, turkey, etc.)
+  - Seafood
+    - Fresh fish
+    - Shellfish
+    - Crustaceans
+
+Dairy and Eggs
+  - Dairy
+    - Milk
+    - Cheese
+    - Butter
+    - Yogurt
+    - Cream
+  - Eggs
+    - Chicken eggs
+    - Duck eggs
+
+Bakery
+  - Bread
+    - Sliced bread
+    - Baguettes
+    - Rolls & buns
+  - Pastries
+    - Croissants
+    - Muffins
+    - Danishes
+  - Desserts
+    - Cakes
+    - Pies
+    - Cookies
+
+Pantry Staples
+  - Grains and Pasta
+    - Rice
+    - Pasta
+    - Quinoa
+    - Couscous
+  - Canned and Jarred Goods
+    - Vegetables
+    - Fruits
+    - Beans
+    - Sauces
+  - Baking Supplies
+    - Flour
+    - Sugar
+    - Baking powder & soda
+    - Yeast
+  - Oils and Vinegars
+    - Olive oil
+    - Vegetable oil
+    - Vinegar (balsamic, apple cider, etc.)
+
+Snacks and Beverages
+  - Snacks
+    - Chips
+    - Nuts & seeds
+    - Dried fruits
+    - Crackers
+  - Beverages
+    - Water
+    - Juices
+    - Sodas
+    - Coffee & tea
+    - Alcoholic beverages (wine, beer, spirits)
+
+Frozen Foods
+  - Frozen Vegetables and Fruits
+  - Frozen Meals
+  - Ice Cream and Desserts
+  - Frozen Meat and Seafood
+
+Health and Specialty Foods
+  - Organic Foods
+  - Gluten-Free
+  - Vegan and Vegetarian
+  - Low-Sodium
+  - Keto and Low-Carb
+
+International Foods
+  - Asian
+  - Mexican
+  - Italian
+  - Indian
+  - Middle Eastern
+  - African
+
+Beverages
+  - Non-Alcoholic
+    - Water
+    - Juice
+    - Soda
+    - Tea
+    - Coffee
+  - Alcoholic
+    - Beer
+    - Wine
+    - Spirits
+
+Spices and Condiments
+  - Spices
+    - Dried herbs
+    - Ground spices
+    - Spice blends
+  - Condiments
+    - Ketchup
+    - Mustard
+    - Mayonnaise
+    - Hot sauce
+    - Soy sauce
+
+Miscellaneous
+  - Baby Food
+  - Pet Food
+  - Cooking Supplies
+    - Foil
+    - Plastic wrap
+    - Baking paper
