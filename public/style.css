@@ -21,10 +21,11 @@ header{
 #logo{
     display: flex;
     align-items: center;
-    width: 220px;
+    width: 200px;
+    gap: 10px;
 }
 #nimg{
-    width: 200px;height: 40px;
+    width: 150px;height: 35px;
     object-fit: cover;
     position: relative;
     right: 10px;

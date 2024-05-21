@@ -5,10 +5,6 @@ const route = require("./Routers/routers");
 
 app.use(express.static('./public'));
 
-// app.get('/home',(req,res) => {
-//     res.status(200).send(reader.homepage);
-// });
-
 app.use('/home',route);
 
 
