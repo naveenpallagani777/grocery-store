@@ -1,145 +1,98 @@
-body{ padding: 0px;margin: 0px; }
-header{
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    width: 100vw;height: 100vh;
+   
+}
+#nav img,#set{
+    width: 30px;height: 30px;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 5px;
+}
+#logo{
+    width: 60px;height: 60px;
+}
+#sidebar{
+    width: 80px;
+    height: calc(100vh - 20px);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 1px solid; */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: fixed;
+    left: 15px;top:10px;
+    
+}
+#nav{
+    gap: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+hr{
+    height: 1px;width: 70%;
+    background-color: black;
+}
+
+#body{
+    min-height: calc(100vh + 20px);
+    box-sizing: border-box;
+    max-width: calc(100vw - 135px);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    position: absolute;
+    left: 110px;top:10px;
+}
+#top{
+    width: calc(100vw - 135px);height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    border: solid black;
+    border-width: 0px 0px 2px 0px;
+
+    
+}
+#pro{
+    width: 90px;height: 40px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: solid rgb(0, 0, 0);
-    border-width: 0px 0px 2px 0px;
-    padding:5px 10px;
+    position: absolute;right: 20px;
 }
-#line{
-    height: 35px;width: 35px;
-    margin-left: 5px;
-    object-fit: cover;
-}
+#pro img{
+    width: 30px;height: 30px;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 50%;
 
-#part1{
-    display: flex;
-    align-items: center;
-    gap: 10px;
 }
-#logo{
-    display: flex;
-    align-items: center;
-    width: 200px;
-    gap: 10px;
-}
-#nimg{
-    width: 150px;height: 35px;
-    object-fit: cover;
-    position: relative;
-    right: 10px;
-}
-#limg{
-    width: 50px;height: 50px;
-    object-fit: cover;
-    border-radius: 10px;
-    /* border: solid; */
-}
-
 #search{
     display: flex;
-    align-items: center;
+    position: absolute;left: 20px;
 }
-#search input{
-    height: 40px;
-    width: 35vw;
-    border: solid rgb(0, 0, 0);
-    border-width:1px 0px 1px 1px ;
-    border-radius: 30px 0px 0px 30px;
-    font-size: 20px;
-    background: transparent;
-    padding-left: 20px;
-    font-family: "Roboto", sans-serif;
-    color: rgb(0, 0, 0);
-}
-/* ::placeholder {
-    color: white;
-    opacity: 1; 
-} */
- 
-input:focus { outline: none;}
 #search img{
-    width: 25px;height: 25px;
-
-}
-#simg{
-    width: 50px;height: 42px;
-    border: solid rgb(0, 0, 0);
-    border-width:1px ;
-    border-radius: 0px 30px 30px 0px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#cart{
-    display: flex;
-    align-items: center;
-    border-radius: 10px;
-
-}
-
-p{
-    font-size: 20px;
-    font-family: "Roboto", sans-serif;
-    color: rgb(4, 4, 4);
-}
-
-
-#part3{
-    display: flex;
-    gap: 10px;
-    align-items: center;
-}
-
-
-#lightmode{
-    width: 40px;height: 40px;
+    width: 30px;height: 30px;
     object-fit: cover;
-    filter: invert(100%);
-}
-
-#cart img{
-    width: 35px;height: 35px;
-    object-fit: cover;
-    /* position: relative;bottom: 1px; */
-}
-
-#profile{
-    height: 40px; width: 40px;
-}
-/* menu bar and main css*/
-#main{
-    display: flex;
-}
-#menu_bar{
-    width: 180px;
-    border: solid black;
-    border-width: 0px 0px 2px 0px;
-    padding: 15px 10px;
-
-}
-.menu{
-    display: flex;
-    align-items: center;
-    padding: 5px 10px;
-    gap: 20px;
-    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    border:  solid;
+    border-width: 1px 0px 1px 1px;
+    border-radius: 10px 0px 0px 10px;
+   
     
 }
-.menu img{
-    width: 25px;height: 25px;
-    object-fit: cover;
-}
-.menu a{
-    text-decoration: none;
-    font-size: 18px;
-    font-family: "Barlow", sans-serif;
-}
 
-.menu:hover{
-    background-color: rgb(184, 180, 180);
-    transition: 1s;
+#search input{
+    width: 35vw;height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-radius: 0px 10px 10px 0px;
 }
 

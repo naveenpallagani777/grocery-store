@@ -1,0 +1,144 @@
+{
+    
+  
+  
+  
+  
+  
+  {
+    "name": "Jack",
+    "rating": 0,
+    "bannerImg": "",
+    "products": [
+      {"category": "Fruits", "item": "Strawberries", "price": 150, "quantity": 40, "description": "Fresh strawberries", "rating": 0},
+      {"category": "Vegetables", "item": "Broccoli", "price": 50, "quantity": 50, "description": "Fresh broccoli", "rating": 0},
+      {"category": "Herbs", "item": "Oregano", "price": 20, "quantity": 20, "description": "Fresh oregano", "rating": 0},
+      {"category": "Dairy", "item": "Cream Cheese", "price": 80, "quantity": 30, "description": "Organic cream cheese", "rating": 0},
+      {"category": "Bakery", "item": "Pies", "price": 200, "quantity": 30, "description": "Assorted pies", "rating": 0},
+      {"category": "Meat", "item": "Duck", "price": 600, "quantity": 20, "description": "Fresh duck", "rating": 0},
+      {"category": "Pantry Staples", "item": "Quinoa", "price": 100, "quantity": 60, "description": "Organic quinoa", "rating": 0},
+      {"category": "Snacks", "item": "Pretzels", "price": 70, "quantity": 50, "description": "Assorted pretzels", "rating": 0},
+      {"category": "Frozen Foods", "item": "Frozen Meat", "price": 350, "quantity": 20, "description": "Assorted frozen meats", "rating": 0},
+      {"category": "Health and Specialty Foods", "item": "Paleo", "price": 400, "quantity": 20, "description": "Paleo products", "rating": 0}
+    ]
+  }
+  {
+    "name": "Linda",
+    "rating": 0,
+    "bannerImg": "",
+    "products": [
+      {"category": "Fruits", "item": "Pears", "price": 60, "quantity": 50, "description": "Fresh pears", "rating": 0},
+      {"category": "Vegetables", "item": "Zucchini", "price": 40, "quantity": 50, "description": "Fresh zucchini", "rating": 0},
+      {"category": "Herbs", "item": "Dill", "price": 30, "quantity": 30, "description": "Fresh dill", "rating": 0},
+      {"category": "Dairy", "item": "Sour Cream", "price": 70, "quantity": 30, "description": "Organic sour cream", "rating": 0},
+      {"category": "Bakery", "item": "Croissants", "price": 100, "quantity": 20, "description": "Assorted croissants", "rating": 0},
+      {"category": "Meat", "item": "Goat", "price": 800, "quantity": 10, "description": "Fresh goat meat", "rating": 0},
+      {"category": "Pantry Staples", "item": "Couscous", "price": 80, "quantity": 50, "description": "Organic couscous", "rating": 0},
+      {"category": "Snacks", "item": "Jerky", "price": 200, "quantity": 20, "description": "Assorted jerky", "rating": 0},
+      {"category": "Frozen Foods", "item": "Frozen Fruit", "price": 180, "quantity": 30, "description": "Assorted frozen fruits", "rating": 0},
+      {"category": "Health and Specialty Foods", "item": "Low-Fat", "price": 150, "quantity": 30, "description": "Low-fat products", "rating": 0}
+    ]
+  }
+  {
+    "name": "James",
+    "rating": 0,
+    "bannerImg": "",
+    "products": [
+      {"category": "Fruits", "item": "Blueberries", "price": 200, "quantity": 40, "description": "Fresh blueberries", "rating": 0},
+      {"category": "Vegetables", "item": "Cabbage", "price": 30, "quantity": 60, "description": "Fresh cabbage", "rating": 0},
+      {"category": "Herbs", "item": "Chives", "price": 30, "quantity": 20, "description": "Fresh chives", "rating": 0},
+      {"category": "Dairy", "item": "Ice Cream", "price": 150, "quantity": 50, "description": "Assorted ice cream", "rating": 0},
+      {"category": "Bakery", "item": "Donuts", "price": 120, "quantity": 30, "description": "Assorted donuts", "rating": 0},
+      {"category": "Meat", "item": "Bison", "price": 1000, "quantity": 10, "description": "Fresh bison meat", "rating": 0},
+      {"category": "Pantry Staples", "item": "Chickpeas", "price": 70, "quantity": 60, "description": "Organic chickpeas", "rating": 0},
+      {"category": "Snacks", "item": "Granola Bars", "price": 90, "quantity": 50, "description": "Assorted granola bars", "rating": 0},
+      {"category": "Frozen Foods", "item": "Frozen Yogurt", "price": 250, "quantity": 30, "description": "Assorted frozen yogurt", "rating": 0},
+      {"category": "Health and Specialty Foods", "item": "Soy-Free", "price": 200, "quantity": 20, "description": "Soy-free products", "rating": 0}
+    ]
+  }
+  {
+    "name": "Alice",
+    "rating": 0,
+    "bannerImg": "",
+    "products": [
+      {"category": "Fruits", "item": "Cherries", "price": 250, "quantity": 30, "description": "Fresh cherries", "rating": 0},
+      {"category": "Vegetables", "item": "Kale", "price": 40, "quantity": 60, "description": "Fresh kale", "rating": 0},
+      {"category": "Herbs", "item": "Mint", "price": 20, "quantity": 20, "description": "Fresh mint leaves", "rating": 0},
+      {"category": "Dairy", "item": "Whipping Cream", "price": 120, "quantity": 20, "description": "Organic whipping cream", "rating": 0},
+      {"category": "Bakery", "item": "Scones", "price": 150, "quantity": 20, "description": "Assorted scones", "rating": 0},
+      {"category": "Meat", "item": "Venison", "price": 900, "quantity": 10, "description": "Fresh venison", "rating": 0},
+      {"category": "Pantry Staples", "item": "Pasta", "price": 60, "quantity": 60, "description": "Assorted pasta", "rating": 0},
+      {"category": "Snacks", "item": "Fruit Snacks", "price": 100, "quantity": 50, "description": "Assorted fruit snacks", "rating": 0},
+      {"category": "Frozen Foods", "item": "Frozen Bread", "price": 100, "quantity": 30, "description": "Assorted frozen bread", "rating": 0},
+      {"category": "Health and Specialty Foods", "item": "Low-Sodium", "price": 150, "quantity": 20, "description": "Low-sodium products", "rating": 0}
+    ]
+  }
+  {
+    "name": "Megan",
+    "rating": 0,
+    "bannerImg": "",
+    "products": [
+      {"category": "Fruits", "item": "Oranges", "price": 80, "quantity": 100, "description": "Fresh oranges", "rating": 0},
+      {"category": "Vegetables", "item": "Carrots", "price": 30, "quantity": 100, "description": "Fresh carrots", "rating": 0},
+      {"category": "Herbs", "item": "Tarragon", "price": 20, "quantity": 30, "description": "Fresh tarragon", "rating": 0},
+      {"category": "Dairy", "item": "Ghee", "price": 100, "quantity": 20, "description": "Clarified butter", "rating": 0},
+      {"category": "Bakery", "item": "Bagels", "price": 90, "quantity": 40, "description": "Assorted bagels", "rating": 0},
+      {"category": "Meat", "item": "Rabbit", "price": 800, "quantity": 10, "description": "Fresh rabbit meat", "rating": 0},
+      {"category": "Pantry Staples", "item": "Barley", "price": 70, "quantity": 40, "description": "Organic barley", "rating": 0},
+      {"category": "Snacks", "item": "Energy Bars", "price": 120, "quantity": 30, "description": "Assorted energy bars", "rating": 0},
+      {"category": "Frozen Foods", "item": "Frozen Soup", "price": 200, "quantity": 20, "description": "Assorted frozen soup", "rating": 0},
+      {"category": "Health and Specialty Foods", "item": "Kosher", "price": 300, "quantity": 20, "description": "Kosher products", "rating": 0}
+    ]
+  }
+  {
+    "name": "Michael",
+    "rating": 0,
+    "bannerImg": "",
+    "products": [
+      {"category": "Fruits", "item": "Grapes", "price": 100, "quantity": 60, "description": "Fresh grapes", "rating": 0},
+      {"category": "Vegetables", "item": "Onions & garlic", "price": 50, "quantity": 100, "description": "Fresh onions and garlic", "rating": 0},
+      {"category": "Herbs", "item": "Turmeric", "price": 50, "quantity": 20, "description": "Fresh turmeric root", "rating": 0},
+      {"category": "Dairy", "item": "Cream", "price": 60, "quantity": 40, "description": "Heavy cream", "rating": 0},
+      {"category": "Bakery", "item": "Rolls & buns", "price": 40, "quantity": 50, "description": "Assorted rolls and buns", "rating": 0},
+      {"category": "Meat", "item": "Pork", "price": 500, "quantity": 40, "description": "Fresh pork", "rating": 0},
+      {"category": "Pantry Staples", "item": "Flour", "price": 40, "quantity": 100, "description": "All-purpose flour", "rating": 0},
+      {"category": "Snacks", "item": "Seeds", "price": 120, "quantity": 30, "description": "Assorted seeds", "rating": 0},
+      {"category": "Frozen Foods", "item": "Frozen Desserts", "price": 200, "quantity": 30, "description": "Assorted frozen desserts", "rating": 0},
+      {"category": "Health and Specialty Foods", "item": "Keto and Low-Carb", "price": 250, "quantity": 20, "description": "Keto and low-carb products", "rating": 0}
+    ]
+  }
+  {
+    "name": "Sophia",
+    "rating": 0,
+    "bannerImg": "",
+    "products": [
+      {"category": "Fruits", "item": "Melons", "price": 150, "quantity": 40, "description": "Assorted melons", "rating": 0},
+      {"category": "Vegetables", "item": "Cruciferous vegetables", "price": 50, "quantity": 40, "description": "Mixed cruciferous vegetables", "rating": 0},
+      {"category": "Herbs", "item": "Basil", "price": 30, "quantity": 30, "description": "Fresh basil leaves", "rating": 0},
+      {"category": "Dairy", "item": "Butter", "price": 100, "quantity": 50, "description": "Salted butter", "rating": 0},
+      {"category": "Bakery", "item": "Cookies", "price": 150, "quantity": 40, "description": "Assorted cookies", "rating": 0},
+      {"category": "Meat", "item": "Lamb", "price": 700, "quantity": 20, "description": "Fresh lamb", "rating": 0},
+      {"category": "Pantry Staples", "item": "Sugar", "price": 40, "quantity": 100, "description": "Granulated sugar", "rating": 0},
+      {"category": "Snacks", "item": "Chips", "price": 70, "quantity": 70, "description": "Crispy potato chips", "rating": 0},
+      {"category": "Frozen Foods", "item": "Frozen Vegetables", "price": 120, "quantity": 60, "description": "Mixed frozen vegetables", "rating": 0},
+      {"category": "Health and Specialty Foods", "item": "Vegan and Vegetarian", "price": 250, "quantity": 25, "description": "Vegan and vegetarian products", "rating": 0}
+    ]
+  }
+  {
+    "name": "John",
+    "rating": 0,
+    "bannerImg": "",
+    "products": [
+      {"category": "Fruits", "item": "Tropical fruits", "price": 200, "quantity": 50, "description": "Assorted tropical fruits", "rating": 0},
+      {"category": "Vegetables", "item": "Peppers", "price": 60, "quantity": 60, "description": "Fresh bell peppers", "rating": 0},
+      {"category": "Herbs", "item": "Parsley", "price": 20, "quantity": 40, "description": "Fresh parsley leaves", "rating": 0},
+      {"category": "Dairy", "item": "Milk", "price": 40, "quantity": 200, "description": "Whole milk", "rating": 0},
+      {"category": "Bakery", "item": "Bread", "price": 60, "quantity": 50, "description": "Whole grain bread", "rating": 0},
+      {"category": "Meat", "item": "Chicken", "price": 400, "quantity": 40, "description": "Free-range chicken", "rating": 0},
+      {"category": "Pantry Staples", "item": "Rice", "price": 50, "quantity": 100, "description": "Basmati rice", "rating": 0},
+      {"category": "Snacks", "item": "Popcorn", "price": 30, "quantity": 50, "description": "Gourmet popcorn", "rating": 0},
+      {"category": "Frozen Foods", "item": "Frozen Pizza", "price": 150, "quantity": 30, "description": "Assorted frozen pizza", "rating": 0},
+      {"category": "Health and Specialty Foods", "item": "Gluten-Free", "price": 200, "quantity": 20, "description": "Gluten-free products", "rating": 0}
+    ]
+  }
+}
